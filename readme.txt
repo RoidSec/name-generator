@@ -1,3 +1,5 @@
+Randomt Filename Generator (Adjective Animal)
+
 Step 1. To import the .txt files into individual arrays/lists.
             - Open()
             - with open() as f: for line in f: print(line)
