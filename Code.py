@@ -19,5 +19,5 @@ f2.close()
 
 
 # Randomly select a index value in each list using the choice module within Random.
-# Concatenate the string using a simple print statement.
+# Concatenate the string using a simple print statement. 
 print(random.choice(wordList1) + "_" + random.choice(wordList2))
