@@ -1,8 +1,8 @@
 import random
 
 # Declare Variables
-filename1 = "f1.txt"
-filename2 = "f2.txt"
+filename1 = "C:\Code\name-generator\f1.txt"
+filename2 = "C:\Code\name-generator\f2.txt"
 
 
 # Open each .txt file using a loop into a list(s) named wordList#. Strip the new lines from each word.
